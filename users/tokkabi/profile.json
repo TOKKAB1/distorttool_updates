@@ -1,10 +1,10 @@
 {
-  "login": "TOKKABI",
-  "user_id": "C550EB67",
-  "launch_count": 18,
-  "last_start": "2026-07-03 10:14:50",
-  "current_version": "2.0.7",
-  "version": "2.0.7",
+  "login": "tokkabi",
+  "user_id": "ACE76212",
+  "launch_count": 1,
+  "last_start": "2026-07-03 10:19:55",
+  "current_version": "2.0.8",
+  "version": "2.0.8",
   "total_imports": 25,
   "total_exports": 25
 }
