@@ -3,8 +3,8 @@
   "login": "iser",
   "user_id": "3423BB88",
   "imports": 0,
-  "exports": 2,
+  "exports": 3,
   "version": "2.0.8",
-  "last_sync": "2026-07-03 13:32:16",
-  "sync_reason": "startup"
+  "last_sync": "2026-07-03 13:39:57",
+  "sync_reason": "close"
 }
