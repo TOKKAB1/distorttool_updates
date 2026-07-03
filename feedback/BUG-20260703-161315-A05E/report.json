@@ -7,7 +7,10 @@
   "title": "liquid",
   "description": "cind apas apply dupa ce indrept nu se genereaza imaginea dreapta",
   "message": "cind apas apply dupa ce indrept nu se genereaza imaginea dreapta",
-  "attachments": [],
-  "status": "uploading",
+  "attachments": [
+    "initial.jpg",
+    "rezultat_dupa_aplicare.jpg"
+  ],
+  "status": "sent",
   "date": "2026-07-03 16:13:15"
 }
