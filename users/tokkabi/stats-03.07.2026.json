@@ -3,8 +3,8 @@
   "login": "TOKKABI",
   "user_id": "C550EB67",
   "imports": 10,
-  "exports": 15,
-  "version": "2.0.9",
-  "last_sync": "2026-07-03 15:28:10",
-  "sync_reason": "close"
+  "exports": 16,
+  "version": "2.0.9.1",
+  "last_sync": "2026-07-03 15:31:06",
+  "sync_reason": "startup"
 }
