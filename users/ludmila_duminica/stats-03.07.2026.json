@@ -2,9 +2,9 @@
   "date": "2026-07-03",
   "login": "Ludmila_Duminica",
   "user_id": "11FDFBFF",
-  "imports": 21,
+  "imports": 22,
   "exports": 18,
   "version": "2.0.8.1",
-  "last_sync": "2026-07-03 14:32:09",
-  "sync_reason": "startup"
+  "last_sync": "2026-07-03 16:00:06",
+  "sync_reason": "scheduled-16"
 }
