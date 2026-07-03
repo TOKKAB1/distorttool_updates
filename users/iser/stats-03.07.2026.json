@@ -1,10 +1,10 @@
 {
   "date": "2026-07-03",
   "login": "iser",
-  "user_id": "59498AA3",
-  "imports": 7,
+  "user_id": "BC9D520F",
+  "imports": 9,
   "exports": 7,
   "version": "2.0.8",
-  "last_sync": "2026-07-03 14:01:13",
+  "last_sync": "2026-07-03 14:12:42",
   "sync_reason": "startup"
 }
