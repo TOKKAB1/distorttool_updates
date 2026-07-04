@@ -2,9 +2,9 @@
   "date": "2026-07-04",
   "login": "iser",
   "user_id": "32E45F08",
-  "imports": 7,
+  "imports": 8,
   "exports": 2,
-  "version": "2.0.9",
-  "last_sync": "2026-07-04 17:24:59",
+  "version": "2.0.9.1",
+  "last_sync": "2026-07-04 17:26:46",
   "sync_reason": "close"
 }
