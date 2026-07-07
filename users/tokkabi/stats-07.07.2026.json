@@ -2,9 +2,9 @@
   "date": "2026-07-07",
   "login": "TOKKABI",
   "user_id": "C550EB67",
-  "imports": 31,
-  "exports": 32,
+  "imports": 33,
+  "exports": 34,
   "version": "2.0.9.1",
-  "last_sync": "2026-07-07 15:36:25",
-  "sync_reason": "close"
+  "last_sync": "2026-07-07 16:00:06",
+  "sync_reason": "scheduled-16"
 }
