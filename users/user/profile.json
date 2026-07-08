@@ -1,10 +1,10 @@
 {
   "login": "User",
-  "user_id": "1499F0BA",
+  "user_id": "96EBFB14",
   "launch_count": 1,
-  "last_start": "2026-07-08 12:47:53",
-  "current_version": "2.1.1",
-  "version": "2.1.1",
+  "last_start": "2026-07-08 13:00:54",
+  "current_version": "2.0.9.1",
+  "version": "2.0.9.1",
   "total_imports": 0,
   "total_exports": 0
 }
