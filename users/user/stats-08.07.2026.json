@@ -2,9 +2,9 @@
   "date": "2026-07-08",
   "login": "User",
   "user_id": "96EBFB14",
-  "imports": 15,
-  "exports": 21,
+  "imports": 20,
+  "exports": 24,
   "version": "2.11",
-  "last_sync": "2026-07-08 16:00:06",
-  "sync_reason": "scheduled-16"
+  "last_sync": "2026-07-08 17:55:53",
+  "sync_reason": "close"
 }
