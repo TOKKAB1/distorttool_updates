@@ -2,9 +2,9 @@
   "login": "User",
   "user_id": "96EBFB14",
   "launch_count": 2,
-  "last_start": "2026-07-08 14:34:06",
+  "last_start": "2026-07-08 14:34:11",
   "current_version": "2.11",
   "version": "2.11",
-  "total_imports": 0,
-  "total_exports": 0
+  "total_imports": 4,
+  "total_exports": 6
 }
