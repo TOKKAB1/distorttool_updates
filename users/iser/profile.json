@@ -1,10 +1,10 @@
 {
   "login": "iser",
-  "user_id": "94100C01",
-  "launch_count": 7,
-  "last_start": "2026-07-06 11:28:50",
-  "current_version": "2.0.9.1",
-  "version": "2.0.9.1",
+  "user_id": "76F23B92",
+  "launch_count": 1,
+  "last_start": "2026-07-08 10:46:15",
+  "current_version": "2.10",
+  "version": "2.10",
   "total_imports": 21,
   "total_exports": 9
 }
