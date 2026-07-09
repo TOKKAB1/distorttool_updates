@@ -2,9 +2,9 @@
   "date": "2026-07-09",
   "login": "iana_lutisina",
   "user_id": "3F7CC8FA",
-  "imports": 3,
-  "exports": 3,
+  "imports": 20,
+  "exports": 20,
   "version": "2.11",
-  "last_sync": "2026-07-09 16:00:46",
-  "sync_reason": "scheduled-16"
+  "last_sync": "2026-07-09 18:59:18",
+  "sync_reason": "close"
 }
