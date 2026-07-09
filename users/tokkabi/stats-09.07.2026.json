@@ -1,10 +1,10 @@
 {
   "date": "2026-07-09",
   "login": "TOKKABI",
-  "user_id": "C550EB67",
-  "imports": 7,
-  "exports": 5,
-  "version": "2.0.7",
-  "last_sync": "2026-07-09 13:34:57",
-  "sync_reason": "close"
+  "user_id": "055AB6AB",
+  "imports": 9,
+  "exports": 7,
+  "version": "2.11",
+  "last_sync": "2026-07-09 14:12:36",
+  "sync_reason": "startup"
 }
