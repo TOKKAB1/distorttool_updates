@@ -1,7 +1,7 @@
 {
   "name": "DistortTool",
-  "version": "2.12",
-  "url": "https://github.com/TOKKAB1/distorttool_updates/releases/download/v2.12/DistortTool_Setup_2.12.zip",
-  "notes": "Update 2.12 - Light Theme",
-  "mandatory": false
+  "version": "2.13",
+  "url": "https://github.com/TOKKAB1/distorttool_updates/releases/download/v2.13/DistortTool_Setup_2.13.zip",
+  "notes": "Update 2.13",
+  "mandatory": true
 }
