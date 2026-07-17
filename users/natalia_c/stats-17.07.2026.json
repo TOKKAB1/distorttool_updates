@@ -2,9 +2,9 @@
   "date": "2026-07-17",
   "login": "Natalia_C",
   "user_id": "8CD87141",
-  "imports": 3,
-  "exports": 1,
+  "imports": 8,
+  "exports": 5,
   "version": "2.15.1",
-  "last_sync": "2026-07-17 12:37:05",
-  "sync_reason": "close"
+  "last_sync": "2026-07-17 16:00:42",
+  "sync_reason": "scheduled-16"
 }
