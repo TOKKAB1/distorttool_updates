@@ -2,9 +2,9 @@
   "date": "2026-08-17",
   "login": "Tatiana_Haidov",
   "user_id": "51A4BF1D",
-  "imports": 2,
-  "exports": 2,
+  "imports": 4,
+  "exports": 4,
   "version": "2.16.5",
-  "last_sync": "2026-08-17 16:00:45",
-  "sync_reason": "scheduled-16"
+  "last_sync": "2026-08-17 16:44:53",
+  "sync_reason": "close"
 }
