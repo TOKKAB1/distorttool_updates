@@ -2,9 +2,9 @@
   "date": "2026-08-31",
   "login": "olga_K",
   "user_id": "4925D5E7",
-  "imports": 24,
-  "exports": 24,
+  "imports": 35,
+  "exports": 35,
   "version": "2.16.5",
-  "last_sync": "2026-08-31 16:00:54",
-  "sync_reason": "scheduled-16"
+  "last_sync": "2026-09-01 08:58:50",
+  "sync_reason": "startup"
 }
