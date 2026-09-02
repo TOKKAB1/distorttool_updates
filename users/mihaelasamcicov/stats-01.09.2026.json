@@ -2,9 +2,9 @@
   "date": "2026-09-01",
   "login": "MihaelaSamcicov",
   "user_id": "37690E0E",
-  "imports": 12,
-  "exports": 14,
+  "imports": 26,
+  "exports": 30,
   "version": "2.16.5",
-  "last_sync": "2026-09-01 16:00:37",
-  "sync_reason": "scheduled-16"
+  "last_sync": "2026-09-02 08:37:42",
+  "sync_reason": "startup"
 }
